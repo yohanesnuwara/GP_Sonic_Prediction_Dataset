@@ -8,3 +8,5 @@ The dataset is in Excel format. There are 3 files:
 * Original dataset with various geophysical logs from 3 wells (Well 11/9-F-1A, 11/9-F-1B, 11/9-F-11A)
 * Dataset with normalized logs for DT prediction. 3 sheets; Full set, training set, testing set
 * Dataset with normalized logs for DTS prediction. 3 sheets; Full set, training set, testing set
+
+NOTE: Dataset will be released after publication
